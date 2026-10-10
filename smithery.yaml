@@ -1,0 +1,7 @@
+name: price-radar-mcp
+description: 模型价格雷达 MCP：比价 / 性价比排序 / 成本估算
+categories:
+  - tools
+  - analytics
+license: MIT
+repository: https://github.com/dafeiai918/price-radar-mcp
